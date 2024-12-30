@@ -1,4 +1,4 @@
-### Halo! 👋
+### Halo! Hallo, wie geht es dir?👋
 
 Saya Restyandito, seorang pengembang yang bersemangat dengan kecintaan pada coding dan teknologi. Selamat datang di profil GitHub saya!
 
