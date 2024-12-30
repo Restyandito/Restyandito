@@ -1,39 +1,38 @@
-### Hi there! 👋
+### Halo! 👋
 
-I'm Restyandito, a passionate developer with a love for coding and technology. Welcome to my GitHub profile!
+Saya Restyandito, seorang pengembang yang bersemangat dengan kecintaan pada coding dan teknologi. Selamat datang di profil GitHub saya!
 
-- 🌱 I’m currently learning **[insert technologies or topics you're learning]**
-- 👯 I’m looking to collaborate on **[insert types of projects or technologies]**
-- 💬 Ask me about **[insert topics you are knowledgeable about]**
-- 📫 How to reach me: **[insert your contact information]**
-- ⚡ Fun fact: **[insert a fun fact about yourself]**
+- 🌱 Saat ini saya sedang mempelajari **Flutter** dan **pengembangan UI/UX**.
+- 👯 Saya tertarik untuk berkolaborasi dalam proyek berbasis **Flutter**, **Python**, atau **UI/UX**.
+- 💬 Tanyakan apa saja seputar **pengembangan aplikasi mobile, Python, atau desain antarmuka pengguna**.
+- 📫 Hubungi saya di: **[masukkan informasi kontak Anda]**.
+- ⚡ Fakta menarik: Saya percaya desain yang baik dapat mengubah cara orang berinteraksi dengan teknologi.
 
-### 🔧 Technologies & Tools
+### 🔧 Teknologi & Alat yang Dikuasai
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-### 📈 GitHub Stats
+### 📈 Statistik GitHub
 
-![Restyandito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Restyandito&show_icons=true&theme=radical)
+![Statistik GitHub Restyandito](https://github-readme-stats.vercel.app/api?username=Restyandito&show_icons=true&theme=radical)
 
-### 📫 Connect with Me
+### 📫 Terhubung dengan Saya
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Restyandito/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Restyandito)
 
-### 📝 Latest Blog Posts
+### 📝 Blog Terbaru
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post](link)
-- [Title of Blog Post](link)
-- [Title of Blog Post](link)
+- [Judul Blog Post 1](#)
+- [Judul Blog Post 2](#)
+- [Judul Blog Post 3](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From [Restyandito](https://github.com/Restyandito)
+⭐️ Dari [Restyandito](https://github.com/Restyandito)
