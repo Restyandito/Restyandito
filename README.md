@@ -10,11 +10,11 @@ Saya Restyandito, seorang pengembang yang bersemangat dengan kecintaan pada codi
 
 ### 🔧 Teknologi & Alat yang Dikuasai
 
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)](https://flutter.dev)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)](https://www.figma.com)
+[![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)](https://dart.dev)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)
 
 ### 📈 Statistik GitHub
 
